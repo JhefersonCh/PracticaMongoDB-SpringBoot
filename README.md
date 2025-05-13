@@ -2,8 +2,6 @@
 
 Este es mi primer proyecto de **API REST** creada con [Java Spring Boot](https://spring.io/projects/spring-boot) y [MongoDB](https://www.mongodb.com/), implementando un CRUD básico para gestionar tareas. La API permite crear, leer, actualizar y eliminar tareas.
 
-> 🧠 Aprendí a estructurar una API REST con Spring Boot y a interactuar con una base de datos NoSQL usando MongoDB.
-
 ## 🎯 Funcionalidades
 
 - ✅ Crear tareas
